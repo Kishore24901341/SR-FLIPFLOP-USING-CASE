@@ -73,11 +73,11 @@ endmodule
 ````
 
 **RTL LOGIC FOR FLIPFLOPS**
-![image](https://github.com/user-attachments/assets/dc825f4e-0783-404e-81b2-4e24e2a99264)
+![Screenshot 2025-05-04 137724](https://github.com/user-attachments/assets/72e80357-8caf-4e05-b6ca-0dd8adec66d8)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![image](https://github.com/user-attachments/assets/9d0e6614-2e7b-4080-8d89-ad466f770655)
+![Screenshot 2025-05-04 137725](https://github.com/user-attachments/assets/145f870b-3a5f-4001-8829-bc0c8ef89f61)
 
 **RESULTS**
 
